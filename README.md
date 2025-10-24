@@ -6,7 +6,7 @@ apt update && apt upgrade -y
 git clone https://github.com/acilshops/UbotLoco
 ```
 ```
-cd ubotpremjojo
+cd UbotLoco
 ```
 ```
 apt install ffmpeg -y
