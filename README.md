@@ -27,7 +27,7 @@ pip3 install -r requirements.txt
 cp sample.env .env && nano .env
 ```
 ```
-screen -S ubotpremjojo
+screen -S UbotLoco
 ```
 ```
 python3 -m PyroUbot
@@ -36,13 +36,13 @@ python3 -m PyroUbot
 ---------- Menghidupan jika ubot mati -------------
 ```
 ```
-cd ubotpremjojo
+cd UbotLoco
 ```
 ```
 python3 -m venv venv && source venv/bin/activate
 ```
 ```
-screen -S ubotpremjojo
+screen -S UbotLoco
 ```
 ```
 python3 -m PyroUbot
